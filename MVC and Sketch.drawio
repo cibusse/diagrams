@@ -4,32 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7ydnyLyAO0v6t1_Miq5--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ydnyLyAO0v6t1_Miq5--1" target="7ydnyLyAO0v6t1_Miq5--2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOGIN&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="547.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="156" y="260" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="250" y="197.5" width="260" height="260" as="geometry" />
+          <mxGeometry x="352" y="170" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="316" y="265" width="220" height="125" as="geometry" />
+          <mxGeometry x="418" y="237.5" width="220" height="125" as="geometry" />
         </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DASHBOARD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="307.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="376" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Profile&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Bill&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Debts&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Budgets&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Savings&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Loans&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Reports&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Rewards&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;AI&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="252.5" width="106" height="150" as="geometry" />
+          <mxGeometry x="462" y="225" width="106" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7ydnyLyAO0v6t1_Miq5--9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Group 3&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Sketch Finance App&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="120" width="230" height="30" as="geometry" />
+        <mxCell id="7ydnyLyAO0v6t1_Miq5--9" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Group 3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Sketch Finance App&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="67" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MVC Finance App&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="100" width="230" height="30" as="geometry" />
+          <mxGeometry x="282" y="510" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="866" y="160" width="750" height="470" as="geometry" />
+          <mxGeometry x="38" y="570" width="750" height="470" as="geometry" />
         </mxCell>
         <mxCell id="7ydnyLyAO0v6t1_Miq5--25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7ydnyLyAO0v6t1_Miq5--31">
           <mxGeometry width="750.0000000000001" height="251.78571428571425" as="geometry" />
@@ -97,6 +94,14 @@
               <mxPoint x="354.8387096774194" y="369.28571428571433" />
               <mxPoint x="354.8387096774194" y="293.75000000000006" />
               <mxPoint x="500" y="293.75000000000006" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ydnyLyAO0v6t1_Miq5--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ydnyLyAO0v6t1_Miq5--1" target="7ydnyLyAO0v6t1_Miq5--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="314" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
